@@ -1,0 +1,609 @@
+[INFO]-[2022/04/27 03:37:04] Cloning: 1651030622547's clone job's data is not in database, generating data
+[INFO]-[2022/04/27 03:37:08] DB Copy: Creating table wpstg0_actionscheduler_actions
+[INFO]-[2022/04/27 03:37:08] DB Copy: Table wp_actionscheduler_actions contains 59 rows 
+[INFO]-[2022/04/27 03:37:08] DB Copy: Copy data from wp_actionscheduler_actions to wpstg0_actionscheduler_actions - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:12] DB Copy: Creating table wpstg0_actionscheduler_claims
+[INFO]-[2022/04/27 03:37:12] DB Copy: Table wp_actionscheduler_claims contains 0 rows 
+[INFO]-[2022/04/27 03:37:15] DB Copy: Creating table wpstg0_actionscheduler_groups
+[INFO]-[2022/04/27 03:37:15] DB Copy: Table wp_actionscheduler_groups contains 2 rows 
+[INFO]-[2022/04/27 03:37:15] DB Copy: Copy data from wp_actionscheduler_groups to wpstg0_actionscheduler_groups - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:18] DB Copy: Creating table wpstg0_actionscheduler_logs
+[INFO]-[2022/04/27 03:37:18] DB Copy: Table wp_actionscheduler_logs contains 170 rows 
+[INFO]-[2022/04/27 03:37:18] DB Copy: Copy data from wp_actionscheduler_logs to wpstg0_actionscheduler_logs - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:20] DB Copy: Creating table wpstg0_ce4wp_contacts
+[INFO]-[2022/04/27 03:37:20] DB Copy: Table wp_ce4wp_contacts contains 0 rows 
+[INFO]-[2022/04/27 03:37:22] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2022/04/27 03:37:22] DB Copy: Table wp_commentmeta contains 0 rows 
+[INFO]-[2022/04/27 03:37:25] DB Copy: Creating table wpstg0_comments
+[INFO]-[2022/04/27 03:37:25] DB Copy: Table wp_comments contains 1 rows 
+[INFO]-[2022/04/27 03:37:25] DB Copy: Copy data from wp_comments to wpstg0_comments - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:27] DB Copy: Creating table wpstg0_create_map
+[INFO]-[2022/04/27 03:37:27] DB Copy: Table wp_create_map contains 0 rows 
+[INFO]-[2022/04/27 03:37:31] DB Copy: Creating table wpstg0_e_events
+[INFO]-[2022/04/27 03:37:32] DB Copy: Table wp_e_events contains 0 rows 
+[INFO]-[2022/04/27 03:37:34] DB Copy: Creating table wpstg0_group_map
+[INFO]-[2022/04/27 03:37:34] DB Copy: Table wp_group_map contains 0 rows 
+[INFO]-[2022/04/27 03:37:36] DB Copy: Creating table wpstg0_links
+[INFO]-[2022/04/27 03:37:36] DB Copy: Table wp_links contains 0 rows 
+[INFO]-[2022/04/27 03:37:38] DB Copy: Creating table wpstg0_map_locations
+[INFO]-[2022/04/27 03:37:38] DB Copy: Table wp_map_locations contains 0 rows 
+[INFO]-[2022/04/27 03:37:40] DB Copy: Creating table wpstg0_mappress_maps
+[INFO]-[2022/04/27 03:37:40] DB Copy: Table wp_mappress_maps contains 0 rows 
+[INFO]-[2022/04/27 03:37:41] DB Copy: Creating table wpstg0_mappress_posts
+[INFO]-[2022/04/27 03:37:42] DB Copy: Table wp_mappress_posts contains 0 rows 
+[INFO]-[2022/04/27 03:37:44] DB Copy: Creating table wpstg0_mlw_qm_audit_trail
+[INFO]-[2022/04/27 03:37:44] DB Copy: Table wp_mlw_qm_audit_trail contains 3 rows 
+[INFO]-[2022/04/27 03:37:44] DB Copy: Copy data from wp_mlw_qm_audit_trail to wpstg0_mlw_qm_audit_trail - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:46] DB Copy: Creating table wpstg0_mlw_question_terms
+[INFO]-[2022/04/27 03:37:46] DB Copy: Table wp_mlw_question_terms contains 0 rows 
+[INFO]-[2022/04/27 03:37:48] DB Copy: Creating table wpstg0_mlw_questions
+[INFO]-[2022/04/27 03:37:48] DB Copy: Table wp_mlw_questions contains 0 rows 
+[INFO]-[2022/04/27 03:37:50] DB Copy: Creating table wpstg0_mlw_quiz_theme_settings
+[INFO]-[2022/04/27 03:37:51] DB Copy: Table wp_mlw_quiz_theme_settings contains 0 rows 
+[INFO]-[2022/04/27 03:37:52] DB Copy: Creating table wpstg0_mlw_quizzes
+[INFO]-[2022/04/27 03:37:52] DB Copy: Table wp_mlw_quizzes contains 1 rows 
+[INFO]-[2022/04/27 03:37:52] DB Copy: Copy data from wp_mlw_quizzes to wpstg0_mlw_quizzes - 0 to 10000 records
+[INFO]-[2022/04/27 03:37:54] DB Copy: Creating table wpstg0_mlw_results
+[INFO]-[2022/04/27 03:37:54] DB Copy: Table wp_mlw_results contains 0 rows 
+[INFO]-[2022/04/27 03:37:56] DB Copy: Creating table wpstg0_mlw_themes
+[INFO]-[2022/04/27 03:37:57] DB Copy: Table wp_mlw_themes contains 0 rows 
+[INFO]-[2022/04/27 03:37:58] DB Copy: Creating table wpstg0_options
+[INFO]-[2022/04/27 03:37:59] DB Copy: Table wp_options contains 572 rows 
+[INFO]-[2022/04/27 03:37:59] DB Copy: Copy data from wp_options to wpstg0_options - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:01] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2022/04/27 03:38:02] DB Copy: Table wp_postmeta contains 4025 rows 
+[INFO]-[2022/04/27 03:38:02] DB Copy: Copy data from wp_postmeta to wpstg0_postmeta - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:10] DB Copy: Creating table wpstg0_posts
+[INFO]-[2022/04/27 03:38:10] DB Copy: Table wp_posts contains 644 rows 
+[INFO]-[2022/04/27 03:38:10] DB Copy: Copy data from wp_posts to wpstg0_posts - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:15] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2022/04/27 03:38:15] DB Copy: Table wp_smush_dir_images contains 0 rows 
+[INFO]-[2022/04/27 03:38:18] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2022/04/27 03:38:18] DB Copy: Table wp_term_relationships contains 11 rows 
+[INFO]-[2022/04/27 03:38:18] DB Copy: Copy data from wp_term_relationships to wpstg0_term_relationships - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:22] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2022/04/27 03:38:22] DB Copy: Table wp_term_taxonomy contains 7 rows 
+[INFO]-[2022/04/27 03:38:22] DB Copy: Copy data from wp_term_taxonomy to wpstg0_term_taxonomy - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:25] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2022/04/27 03:38:25] DB Copy: Table wp_termmeta contains 4 rows 
+[INFO]-[2022/04/27 03:38:25] DB Copy: Copy data from wp_termmeta to wpstg0_termmeta - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:27] DB Copy: Creating table wpstg0_terms
+[INFO]-[2022/04/27 03:38:27] DB Copy: Table wp_terms contains 7 rows 
+[INFO]-[2022/04/27 03:38:27] DB Copy: Copy data from wp_terms to wpstg0_terms - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:29] DB Copy: Creating table wpstg0_tm_taskmeta
+[INFO]-[2022/04/27 03:38:29] DB Copy: Table wp_tm_taskmeta contains 0 rows 
+[INFO]-[2022/04/27 03:38:33] DB Copy: Creating table wpstg0_tm_tasks
+[INFO]-[2022/04/27 03:38:34] DB Copy: Table wp_tm_tasks contains 0 rows 
+[INFO]-[2022/04/27 03:38:36] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2022/04/27 03:38:36] DB Copy: Table wp_usermeta contains 118 rows 
+[INFO]-[2022/04/27 03:38:36] DB Copy: Copy data from wp_usermeta to wpstg0_usermeta - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:38] DB Copy: Creating table wpstg0_users
+[INFO]-[2022/04/27 03:38:38] DB Copy: Table wp_users contains 5 rows 
+[INFO]-[2022/04/27 03:38:38] DB Copy: Copy data from wp_users to wpstg0_users - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:40] DB Copy: Creating table wpstg0_wp_phpmyadmin_extension__errors_log
+[INFO]-[2022/04/27 03:38:40] DB Copy: Table wp_wp_phpmyadmin_extension__errors_log contains 0 rows 
+[INFO]-[2022/04/27 03:38:42] DB Copy: Creating table wpstg0_wpda_csv_uploads
+[INFO]-[2022/04/27 03:38:42] DB Copy: Table wp_wpda_csv_uploads contains 1 rows 
+[INFO]-[2022/04/27 03:38:42] DB Copy: Copy data from wp_wpda_csv_uploads to wpstg0_wpda_csv_uploads - 0 to 10000 records
+[INFO]-[2022/04/27 03:38:44] DB Copy: Creating table wpstg0_wpda_logging
+[INFO]-[2022/04/27 03:38:45] DB Copy: Table wp_wpda_logging contains 0 rows 
+[INFO]-[2022/04/27 03:38:47] DB Copy: Creating table wpstg0_wpda_media
+[INFO]-[2022/04/27 03:38:47] DB Copy: Table wp_wpda_media contains 0 rows 
+[INFO]-[2022/04/27 03:38:49] DB Copy: Creating table wpstg0_wpda_menus
+[INFO]-[2022/04/27 03:38:49] DB Copy: Table wp_wpda_menus contains 0 rows 
+[INFO]-[2022/04/27 03:38:51] DB Copy: Creating table wpstg0_wpda_project
+[INFO]-[2022/04/27 03:38:52] DB Copy: Table wp_wpda_project contains 0 rows 
+[INFO]-[2022/04/27 03:38:53] DB Copy: Creating table wpstg0_wpda_project_page
+[INFO]-[2022/04/27 03:38:54] DB Copy: Table wp_wpda_project_page contains 0 rows 
+[INFO]-[2022/04/27 03:38:55] DB Copy: Creating table wpstg0_wpda_project_table
+[INFO]-[2022/04/27 03:38:56] DB Copy: Table wp_wpda_project_table contains 0 rows 
+[INFO]-[2022/04/27 03:38:58] DB Copy: Creating table wpstg0_wpda_publisher
+[INFO]-[2022/04/27 03:38:58] DB Copy: Table wp_wpda_publisher contains 1 rows 
+[INFO]-[2022/04/27 03:38:58] DB Copy: Copy data from wp_wpda_publisher to wpstg0_wpda_publisher - 0 to 10000 records
+[INFO]-[2022/04/27 03:39:00] DB Copy: Creating table wpstg0_wpda_table_design
+[INFO]-[2022/04/27 03:39:00] DB Copy: Table wp_wpda_table_design contains 4 rows 
+[INFO]-[2022/04/27 03:39:00] DB Copy: Copy data from wp_wpda_table_design to wpstg0_wpda_table_design - 0 to 10000 records
+[INFO]-[2022/04/27 03:39:02] DB Copy: Creating table wpstg0_wpda_table_settings
+[INFO]-[2022/04/27 03:39:03] DB Copy: Table wp_wpda_table_settings contains 0 rows 
+[INFO]-[2022/04/27 03:39:05] DB Copy: Creating table wpstg0_wpforms_tasks_meta
+[INFO]-[2022/04/27 03:39:05] DB Copy: Table wp_wpforms_tasks_meta contains 26 rows 
+[INFO]-[2022/04/27 03:39:05] DB Copy: Copy data from wp_wpforms_tasks_meta to wpstg0_wpforms_tasks_meta - 0 to 10000 records
+[INFO]-[2022/04/27 03:39:07] DB Copy: Creating table wpstg0_wpvivid_scan_result
+[INFO]-[2022/04/27 03:39:07] DB Copy: Table wp_wpvivid_scan_result contains 0 rows 
+[INFO]-[2022/04/27 03:39:10] DB Copy: Creating table wpstg0_wpvivid_unused_uploads_files
+[INFO]-[2022/04/27 03:39:10] DB Copy: Table wp_wpvivid_unused_uploads_files contains 0 rows 
+[INFO]-[2022/04/27 03:39:13] DB Copy: Creating table wpstg0_xyz_ips_short_code
+[INFO]-[2022/04/27 03:39:13] DB Copy: Table wp_xyz_ips_short_code contains 1 rows 
+[INFO]-[2022/04/27 03:39:13] DB Copy: Copy data from wp_xyz_ips_short_code to wpstg0_xyz_ips_short_code - 0 to 10000 records
+[INFO]-[2022/04/27 03:39:19] DB Search & Replace:  Table wpstg0_actionscheduler_actions 0 to 20000 records
+[INFO]-[2022/04/27 03:39:23] DB Search & Replace:  Table wpstg0_actionscheduler_groups 0 to 20000 records
+[INFO]-[2022/04/27 03:39:24] DB Search & Replace:  Table wpstg0_actionscheduler_logs 0 to 20000 records
+[INFO]-[2022/04/27 03:39:29] DB Search & Replace:  Table wpstg0_comments 0 to 20000 records
+[INFO]-[2022/04/27 03:39:44] DB Search & Replace:  Table wpstg0_mlw_qm_audit_trail 0 to 20000 records
+[INFO]-[2022/04/27 03:39:51] DB Search & Replace:  Table wpstg0_mlw_quizzes 0 to 20000 records
+[INFO]-[2022/04/27 03:39:56] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2022/04/27 03:39:58] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2022/04/27 03:40:03] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2022/04/27 03:40:11] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2022/04/27 03:40:15] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2022/04/27 03:40:18] DB Search & Replace:  Table wpstg0_termmeta 0 to 20000 records
+[INFO]-[2022/04/27 03:40:22] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2022/04/27 03:40:29] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2022/04/27 03:40:30] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2022/04/27 03:40:36] DB Search & Replace:  Table wpstg0_wpda_csv_uploads 0 to 20000 records
+[INFO]-[2022/04/27 03:40:47] DB Search & Replace:  Table wpstg0_wpda_publisher 0 to 20000 records
+[INFO]-[2022/04/27 03:40:48] DB Search & Replace:  Table wpstg0_wpda_table_design 0 to 20000 records
+[INFO]-[2022/04/27 03:40:52] DB Search & Replace:  Table wpstg0_wpforms_tasks_meta 0 to 20000 records
+[INFO]-[2022/04/27 03:40:57] DB Search & Replace:  Table wpstg0_xyz_ips_short_code 0 to 20000 records
+[INFO]-[2022/04/27 03:41:02] Scanning / for its files
+[INFO]-[2022/04/27 03:41:04] Scanning wp-content/plugins and its sub-directories and files
+[INFO]-[2022/04/27 03:41:54] Scanning wp-content/mu-plugins and its sub-directories and files
+[INFO]-[2022/04/27 03:41:57] Scanning wp-content/themes and its sub-directories and files
+[INFO]-[2022/04/27 03:42:09] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2022/04/27 03:42:13] Scanning wp-content for other directories
+[INFO]-[2022/04/27 03:42:20] Scanning wp-includes for its sub-directories and files
+[INFO]-[2022/04/27 03:42:24] Scanning wp-admin for its sub-directories and files
+[INFO]-[2022/04/27 03:42:29] Copying files...
+[INFO]-[2022/04/27 03:42:31] Total 50 files processed
+[INFO]-[2022/04/27 03:42:35] Total 100 files processed
+[INFO]-[2022/04/27 03:42:40] Total 150 files processed
+[INFO]-[2022/04/27 03:42:44] Total 200 files processed
+[INFO]-[2022/04/27 03:42:47] Total 250 files processed
+[INFO]-[2022/04/27 03:42:51] Total 300 files processed
+[INFO]-[2022/04/27 03:42:58] Total 350 files processed
+[INFO]-[2022/04/27 03:43:02] Total 400 files processed
+[INFO]-[2022/04/27 03:43:07] Total 450 files processed
+[INFO]-[2022/04/27 03:43:13] Total 500 files processed
+[INFO]-[2022/04/27 03:43:19] Total 550 files processed
+[INFO]-[2022/04/27 03:43:27] Total 600 files processed
+[INFO]-[2022/04/27 03:43:33] Total 650 files processed
+[INFO]-[2022/04/27 03:43:37] Total 700 files processed
+[INFO]-[2022/04/27 03:43:41] Total 750 files processed
+[INFO]-[2022/04/27 03:43:44] Total 800 files processed
+[INFO]-[2022/04/27 03:43:48] Total 850 files processed
+[INFO]-[2022/04/27 03:43:52] Total 900 files processed
+[INFO]-[2022/04/27 03:43:55] Total 950 files processed
+[INFO]-[2022/04/27 03:44:02] Total 1000 files processed
+[INFO]-[2022/04/27 03:44:05] Total 1050 files processed
+[INFO]-[2022/04/27 03:44:11] Total 1100 files processed
+[INFO]-[2022/04/27 03:44:18] Total 1150 files processed
+[INFO]-[2022/04/27 03:44:24] Total 1200 files processed
+[INFO]-[2022/04/27 03:44:28] Total 1250 files processed
+[INFO]-[2022/04/27 03:44:32] Total 1300 files processed
+[INFO]-[2022/04/27 03:44:37] Total 1350 files processed
+[INFO]-[2022/04/27 03:44:41] Total 1400 files processed
+[INFO]-[2022/04/27 03:44:45] Total 1450 files processed
+[INFO]-[2022/04/27 03:44:48] Total 1500 files processed
+[INFO]-[2022/04/27 03:44:53] Total 1550 files processed
+[INFO]-[2022/04/27 03:44:57] Total 1600 files processed
+[INFO]-[2022/04/27 03:45:02] Total 1650 files processed
+[INFO]-[2022/04/27 03:45:06] Total 1700 files processed
+[INFO]-[2022/04/27 03:45:11] Total 1750 files processed
+[INFO]-[2022/04/27 03:45:20] Total 1800 files processed
+[INFO]-[2022/04/27 03:45:27] Total 1850 files processed
+[INFO]-[2022/04/27 03:45:31] Total 1900 files processed
+[INFO]-[2022/04/27 03:45:34] Total 1950 files processed
+[INFO]-[2022/04/27 03:45:39] Total 2000 files processed
+[INFO]-[2022/04/27 03:45:43] Total 2050 files processed
+[INFO]-[2022/04/27 03:45:46] Total 2100 files processed
+[INFO]-[2022/04/27 03:45:50] Total 2150 files processed
+[INFO]-[2022/04/27 03:45:53] Total 2200 files processed
+[INFO]-[2022/04/27 03:45:57] Total 2250 files processed
+[INFO]-[2022/04/27 03:46:01] Total 2300 files processed
+[INFO]-[2022/04/27 03:46:07] Total 2350 files processed
+[INFO]-[2022/04/27 03:46:13] Total 2400 files processed
+[INFO]-[2022/04/27 03:46:21] Total 2450 files processed
+[INFO]-[2022/04/27 03:46:28] Total 2500 files processed
+[INFO]-[2022/04/27 03:46:33] Total 2550 files processed
+[INFO]-[2022/04/27 03:46:37] Total 2600 files processed
+[INFO]-[2022/04/27 03:46:41] Total 2650 files processed
+[INFO]-[2022/04/27 03:46:44] Total 2700 files processed
+[INFO]-[2022/04/27 03:46:48] Total 2750 files processed
+[INFO]-[2022/04/27 03:46:52] Total 2800 files processed
+[INFO]-[2022/04/27 03:46:56] Total 2850 files processed
+[INFO]-[2022/04/27 03:47:00] Total 2900 files processed
+[INFO]-[2022/04/27 03:47:04] Total 2950 files processed
+[INFO]-[2022/04/27 03:47:11] Total 3000 files processed
+[INFO]-[2022/04/27 03:47:18] Total 3050 files processed
+[INFO]-[2022/04/27 03:47:23] Total 3100 files processed
+[INFO]-[2022/04/27 03:47:27] Total 3150 files processed
+[INFO]-[2022/04/27 03:47:31] Total 3200 files processed
+[INFO]-[2022/04/27 03:47:35] Total 3250 files processed
+[INFO]-[2022/04/27 03:47:39] Total 3300 files processed
+[INFO]-[2022/04/27 03:47:43] Total 3350 files processed
+[INFO]-[2022/04/27 03:47:47] Total 3400 files processed
+[INFO]-[2022/04/27 03:47:51] Total 3450 files processed
+[INFO]-[2022/04/27 03:47:55] Total 3500 files processed
+[INFO]-[2022/04/27 03:47:59] Total 3550 files processed
+[INFO]-[2022/04/27 03:48:03] Total 3600 files processed
+[INFO]-[2022/04/27 03:48:07] Total 3650 files processed
+[INFO]-[2022/04/27 03:48:15] Total 3700 files processed
+[INFO]-[2022/04/27 03:48:23] Total 3750 files processed
+[INFO]-[2022/04/27 03:48:30] Total 3800 files processed
+[INFO]-[2022/04/27 03:48:34] Total 3850 files processed
+[INFO]-[2022/04/27 03:48:38] Total 3900 files processed
+[INFO]-[2022/04/27 03:48:42] Total 3950 files processed
+[INFO]-[2022/04/27 03:48:45] Total 4000 files processed
+[INFO]-[2022/04/27 03:48:49] Total 4050 files processed
+[INFO]-[2022/04/27 03:48:53] Total 4100 files processed
+[INFO]-[2022/04/27 03:48:57] Total 4150 files processed
+[INFO]-[2022/04/27 03:49:01] Total 4200 files processed
+[INFO]-[2022/04/27 03:49:04] Total 4250 files processed
+[INFO]-[2022/04/27 03:49:08] Total 4300 files processed
+[INFO]-[2022/04/27 03:49:15] Total 4350 files processed
+[INFO]-[2022/04/27 03:49:21] Total 4400 files processed
+[INFO]-[2022/04/27 03:49:25] Total 4450 files processed
+[INFO]-[2022/04/27 03:49:28] Total 4500 files processed
+[INFO]-[2022/04/27 03:49:31] Total 4550 files processed
+[INFO]-[2022/04/27 03:49:34] Total 4600 files processed
+[INFO]-[2022/04/27 03:49:38] Total 4650 files processed
+[INFO]-[2022/04/27 03:49:41] Total 4700 files processed
+[INFO]-[2022/04/27 03:49:45] Total 4750 files processed
+[INFO]-[2022/04/27 03:49:49] Total 4800 files processed
+[INFO]-[2022/04/27 03:49:53] Total 4850 files processed
+[INFO]-[2022/04/27 03:49:56] Total 4900 files processed
+[INFO]-[2022/04/27 03:50:00] Total 4950 files processed
+[INFO]-[2022/04/27 03:50:04] Total 5000 files processed
+[INFO]-[2022/04/27 03:50:08] Total 5050 files processed
+[INFO]-[2022/04/27 03:50:14] Total 5100 files processed
+[INFO]-[2022/04/27 03:50:23] Total 5150 files processed
+[INFO]-[2022/04/27 03:50:29] Total 5200 files processed
+[INFO]-[2022/04/27 03:50:34] Total 5250 files processed
+[INFO]-[2022/04/27 03:50:37] Total 5300 files processed
+[INFO]-[2022/04/27 03:50:41] Total 5350 files processed
+[INFO]-[2022/04/27 03:50:46] Total 5400 files processed
+[INFO]-[2022/04/27 03:50:50] Total 5450 files processed
+[INFO]-[2022/04/27 03:50:54] Total 5500 files processed
+[INFO]-[2022/04/27 03:51:00] Total 5550 files processed
+[INFO]-[2022/04/27 03:51:04] Total 5600 files processed
+[INFO]-[2022/04/27 03:51:08] Total 5650 files processed
+[INFO]-[2022/04/27 03:51:15] Total 5700 files processed
+[INFO]-[2022/04/27 03:51:23] Total 5750 files processed
+[INFO]-[2022/04/27 03:51:28] Total 5800 files processed
+[INFO]-[2022/04/27 03:51:32] Total 5850 files processed
+[INFO]-[2022/04/27 03:51:37] Total 5900 files processed
+[INFO]-[2022/04/27 03:51:42] Total 5950 files processed
+[INFO]-[2022/04/27 03:51:46] Total 6000 files processed
+[INFO]-[2022/04/27 03:51:50] Total 6050 files processed
+[INFO]-[2022/04/27 03:51:55] Total 6100 files processed
+[INFO]-[2022/04/27 03:51:59] Total 6150 files processed
+[INFO]-[2022/04/27 03:52:04] Total 6200 files processed
+[INFO]-[2022/04/27 03:52:08] Total 6250 files processed
+[INFO]-[2022/04/27 03:52:15] Total 6300 files processed
+[INFO]-[2022/04/27 03:52:23] Total 6350 files processed
+[INFO]-[2022/04/27 03:52:32] Total 6400 files processed
+[INFO]-[2022/04/27 03:52:37] Total 6450 files processed
+[INFO]-[2022/04/27 03:52:41] Total 6500 files processed
+[INFO]-[2022/04/27 03:52:45] Total 6550 files processed
+[INFO]-[2022/04/27 03:52:49] Total 6600 files processed
+[INFO]-[2022/04/27 03:52:54] Total 6650 files processed
+[INFO]-[2022/04/27 03:52:57] Total 6700 files processed
+[INFO]-[2022/04/27 03:53:02] Total 6750 files processed
+[INFO]-[2022/04/27 03:53:06] Total 6800 files processed
+[INFO]-[2022/04/27 03:53:12] Total 6850 files processed
+[INFO]-[2022/04/27 03:53:18] Total 6900 files processed
+[INFO]-[2022/04/27 03:53:22] Total 6950 files processed
+[INFO]-[2022/04/27 03:53:26] Total 7000 files processed
+[INFO]-[2022/04/27 03:53:31] Total 7050 files processed
+[INFO]-[2022/04/27 03:53:35] Total 7100 files processed
+[INFO]-[2022/04/27 03:53:39] Total 7150 files processed
+[INFO]-[2022/04/27 03:53:42] Total 7200 files processed
+[INFO]-[2022/04/27 03:53:46] Total 7250 files processed
+[INFO]-[2022/04/27 03:53:49] Total 7300 files processed
+[INFO]-[2022/04/27 03:53:54] Total 7350 files processed
+[INFO]-[2022/04/27 03:53:57] Total 7400 files processed
+[INFO]-[2022/04/27 03:54:01] Total 7450 files processed
+[INFO]-[2022/04/27 03:54:05] Total 7500 files processed
+[INFO]-[2022/04/27 03:54:10] Total 7550 files processed
+[INFO]-[2022/04/27 03:54:19] Total 7600 files processed
+[INFO]-[2022/04/27 03:54:25] Total 7650 files processed
+[INFO]-[2022/04/27 03:54:29] Total 7700 files processed
+[INFO]-[2022/04/27 03:54:35] Total 7750 files processed
+[INFO]-[2022/04/27 03:54:38] Total 7800 files processed
+[INFO]-[2022/04/27 03:54:42] Total 7850 files processed
+[INFO]-[2022/04/27 03:54:46] Total 7900 files processed
+[INFO]-[2022/04/27 03:54:49] Total 7950 files processed
+[INFO]-[2022/04/27 03:54:52] Total 8000 files processed
+[INFO]-[2022/04/27 03:54:56] Total 8050 files processed
+[INFO]-[2022/04/27 03:54:59] Total 8100 files processed
+[INFO]-[2022/04/27 03:55:03] Total 8150 files processed
+[INFO]-[2022/04/27 03:55:07] Total 8200 files processed
+[INFO]-[2022/04/27 03:55:14] Total 8250 files processed
+[INFO]-[2022/04/27 03:55:20] Total 8300 files processed
+[INFO]-[2022/04/27 03:55:26] Total 8350 files processed
+[INFO]-[2022/04/27 03:55:31] Total 8400 files processed
+[INFO]-[2022/04/27 03:55:37] Total 8450 files processed
+[INFO]-[2022/04/27 03:55:41] Total 8500 files processed
+[INFO]-[2022/04/27 03:55:45] Total 8550 files processed
+[INFO]-[2022/04/27 03:55:48] Total 8600 files processed
+[INFO]-[2022/04/27 03:55:52] Total 8650 files processed
+[INFO]-[2022/04/27 03:55:56] Total 8700 files processed
+[INFO]-[2022/04/27 03:56:00] Total 8750 files processed
+[INFO]-[2022/04/27 03:56:04] Total 8800 files processed
+[INFO]-[2022/04/27 03:56:08] Total 8850 files processed
+[INFO]-[2022/04/27 03:56:13] Total 8900 files processed
+[INFO]-[2022/04/27 03:56:20] Total 8950 files processed
+[INFO]-[2022/04/27 03:56:27] Total 9000 files processed
+[INFO]-[2022/04/27 03:56:32] Total 9050 files processed
+[INFO]-[2022/04/27 03:56:39] Total 9100 files processed
+[INFO]-[2022/04/27 03:56:43] Total 9150 files processed
+[INFO]-[2022/04/27 03:56:47] Total 9200 files processed
+[INFO]-[2022/04/27 03:56:51] Total 9250 files processed
+[INFO]-[2022/04/27 03:56:55] Total 9300 files processed
+[INFO]-[2022/04/27 03:56:59] Total 9350 files processed
+[INFO]-[2022/04/27 03:57:03] Total 9400 files processed
+[INFO]-[2022/04/27 03:57:06] Total 9450 files processed
+[INFO]-[2022/04/27 03:57:12] Total 9500 files processed
+[INFO]-[2022/04/27 03:57:18] Total 9550 files processed
+[INFO]-[2022/04/27 03:57:22] Total 9600 files processed
+[INFO]-[2022/04/27 03:57:26] Total 9650 files processed
+[INFO]-[2022/04/27 03:57:29] Total 9700 files processed
+[INFO]-[2022/04/27 03:57:33] Total 9750 files processed
+[INFO]-[2022/04/27 03:57:37] Total 9800 files processed
+[INFO]-[2022/04/27 03:57:43] Total 9850 files processed
+[INFO]-[2022/04/27 03:57:47] Total 9900 files processed
+[INFO]-[2022/04/27 03:57:50] Total 9950 files processed
+[INFO]-[2022/04/27 03:57:54] Total 10000 files processed
+[INFO]-[2022/04/27 03:57:59] Total 10050 files processed
+[INFO]-[2022/04/27 03:58:04] Total 10100 files processed
+[INFO]-[2022/04/27 03:58:07] Total 10150 files processed
+[INFO]-[2022/04/27 03:58:11] Total 10200 files processed
+[INFO]-[2022/04/27 03:58:17] Total 10250 files processed
+[INFO]-[2022/04/27 03:58:22] Total 10300 files processed
+[INFO]-[2022/04/27 03:58:26] Total 10350 files processed
+[INFO]-[2022/04/27 03:58:29] Total 10400 files processed
+[INFO]-[2022/04/27 03:58:32] Total 10450 files processed
+[INFO]-[2022/04/27 03:58:36] Total 10500 files processed
+[INFO]-[2022/04/27 03:58:39] Total 10550 files processed
+[INFO]-[2022/04/27 03:58:44] Total 10600 files processed
+[INFO]-[2022/04/27 03:58:48] Total 10650 files processed
+[INFO]-[2022/04/27 03:58:51] Total 10700 files processed
+[INFO]-[2022/04/27 03:58:55] Total 10750 files processed
+[INFO]-[2022/04/27 03:58:58] Total 10800 files processed
+[INFO]-[2022/04/27 03:59:01] Total 10850 files processed
+[INFO]-[2022/04/27 03:59:05] Total 10900 files processed
+[INFO]-[2022/04/27 03:59:08] Total 10950 files processed
+[INFO]-[2022/04/27 03:59:13] Total 11000 files processed
+[INFO]-[2022/04/27 03:59:19] Total 11050 files processed
+[INFO]-[2022/04/27 03:59:25] Total 11100 files processed
+[INFO]-[2022/04/27 03:59:29] Total 11150 files processed
+[INFO]-[2022/04/27 03:59:32] Total 11200 files processed
+[INFO]-[2022/04/27 03:59:36] Total 11250 files processed
+[INFO]-[2022/04/27 03:59:39] Total 11300 files processed
+[INFO]-[2022/04/27 03:59:42] Total 11350 files processed
+[INFO]-[2022/04/27 03:59:47] Total 11400 files processed
+[INFO]-[2022/04/27 03:59:51] Total 11450 files processed
+[INFO]-[2022/04/27 03:59:54] Total 11500 files processed
+[INFO]-[2022/04/27 03:59:58] Total 11550 files processed
+[INFO]-[2022/04/27 04:00:02] Total 11600 files processed
+[INFO]-[2022/04/27 04:00:06] Total 11650 files processed
+[INFO]-[2022/04/27 04:00:13] Total 11700 files processed
+[INFO]-[2022/04/27 04:00:21] Total 11750 files processed
+[INFO]-[2022/04/27 04:00:24] Total 11800 files processed
+[INFO]-[2022/04/27 04:00:28] Total 11850 files processed
+[INFO]-[2022/04/27 04:00:32] Total 11900 files processed
+[INFO]-[2022/04/27 04:00:35] Total 11950 files processed
+[INFO]-[2022/04/27 04:00:39] Total 12000 files processed
+[INFO]-[2022/04/27 04:00:42] Total 12050 files processed
+[INFO]-[2022/04/27 04:00:46] Total 12100 files processed
+[INFO]-[2022/04/27 04:00:51] Total 12150 files processed
+[INFO]-[2022/04/27 04:00:55] Total 12200 files processed
+[INFO]-[2022/04/27 04:00:58] Total 12250 files processed
+[INFO]-[2022/04/27 04:01:02] Total 12300 files processed
+[INFO]-[2022/04/27 04:01:05] Total 12350 files processed
+[INFO]-[2022/04/27 04:01:11] Total 12400 files processed
+[INFO]-[2022/04/27 04:01:17] Total 12450 files processed
+[INFO]-[2022/04/27 04:01:23] Total 12500 files processed
+[INFO]-[2022/04/27 04:01:27] Total 12550 files processed
+[INFO]-[2022/04/27 04:01:31] Total 12600 files processed
+[INFO]-[2022/04/27 04:01:35] Total 12650 files processed
+[INFO]-[2022/04/27 04:01:39] Total 12700 files processed
+[INFO]-[2022/04/27 04:01:43] Total 12750 files processed
+[INFO]-[2022/04/27 04:01:47] Total 12800 files processed
+[INFO]-[2022/04/27 04:01:53] Total 12850 files processed
+[INFO]-[2022/04/27 04:01:56] Total 12900 files processed
+[INFO]-[2022/04/27 04:02:00] Total 12950 files processed
+[INFO]-[2022/04/27 04:02:04] Total 13000 files processed
+[INFO]-[2022/04/27 04:02:08] Total 13050 files processed
+[INFO]-[2022/04/27 04:02:13] Total 13100 files processed
+[INFO]-[2022/04/27 04:02:20] Total 13150 files processed
+[INFO]-[2022/04/27 04:02:26] Total 13200 files processed
+[INFO]-[2022/04/27 04:02:32] Total 13250 files processed
+[INFO]-[2022/04/27 04:02:35] Total 13300 files processed
+[INFO]-[2022/04/27 04:02:39] Total 13350 files processed
+[INFO]-[2022/04/27 04:02:43] Total 13400 files processed
+[INFO]-[2022/04/27 04:02:47] Total 13450 files processed
+[INFO]-[2022/04/27 04:02:51] Total 13500 files processed
+[INFO]-[2022/04/27 04:02:57] Total 13550 files processed
+[INFO]-[2022/04/27 04:03:01] Total 13600 files processed
+[INFO]-[2022/04/27 04:03:04] Total 13650 files processed
+[INFO]-[2022/04/27 04:03:08] Total 13700 files processed
+[INFO]-[2022/04/27 04:03:13] Total 13750 files processed
+[INFO]-[2022/04/27 04:03:20] Total 13800 files processed
+[INFO]-[2022/04/27 04:03:26] Total 13850 files processed
+[INFO]-[2022/04/27 04:03:31] Total 13900 files processed
+[INFO]-[2022/04/27 04:03:35] Total 13950 files processed
+[INFO]-[2022/04/27 04:03:39] Total 14000 files processed
+[INFO]-[2022/04/27 04:03:43] Total 14050 files processed
+[INFO]-[2022/04/27 04:03:47] Total 14100 files processed
+[INFO]-[2022/04/27 04:03:51] Total 14150 files processed
+[INFO]-[2022/04/27 04:03:55] Total 14200 files processed
+[INFO]-[2022/04/27 04:04:01] Total 14250 files processed
+[INFO]-[2022/04/27 04:04:04] Total 14300 files processed
+[INFO]-[2022/04/27 04:04:08] Total 14350 files processed
+[INFO]-[2022/04/27 04:04:14] Total 14400 files processed
+[INFO]-[2022/04/27 04:04:21] Total 14450 files processed
+[INFO]-[2022/04/27 04:04:25] Total 14500 files processed
+[INFO]-[2022/04/27 04:04:29] Total 14550 files processed
+[INFO]-[2022/04/27 04:04:32] Total 14600 files processed
+[INFO]-[2022/04/27 04:04:36] Total 14650 files processed
+[INFO]-[2022/04/27 04:04:39] Total 14700 files processed
+[INFO]-[2022/04/27 04:04:43] Total 14750 files processed
+[INFO]-[2022/04/27 04:04:46] Total 14800 files processed
+[INFO]-[2022/04/27 04:04:49] Total 14850 files processed
+[INFO]-[2022/04/27 04:04:53] Total 14900 files processed
+[INFO]-[2022/04/27 04:04:56] Total 14950 files processed
+[INFO]-[2022/04/27 04:05:02] Total 15000 files processed
+[INFO]-[2022/04/27 04:05:06] Total 15050 files processed
+[INFO]-[2022/04/27 04:05:14] Total 15100 files processed
+[INFO]-[2022/04/27 04:05:22] Total 15150 files processed
+[INFO]-[2022/04/27 04:05:28] Total 15200 files processed
+[INFO]-[2022/04/27 04:05:31] Total 15250 files processed
+[INFO]-[2022/04/27 04:05:35] Total 15300 files processed
+[INFO]-[2022/04/27 04:05:38] Total 15350 files processed
+[INFO]-[2022/04/27 04:05:43] Total 15400 files processed
+[INFO]-[2022/04/27 04:05:46] Total 15450 files processed
+[INFO]-[2022/04/27 04:05:49] Total 15500 files processed
+[INFO]-[2022/04/27 04:05:52] Total 15550 files processed
+[INFO]-[2022/04/27 04:05:55] Total 15600 files processed
+[INFO]-[2022/04/27 04:05:59] Total 15650 files processed
+[INFO]-[2022/04/27 04:06:04] Total 15700 files processed
+[INFO]-[2022/04/27 04:06:07] Total 15750 files processed
+[INFO]-[2022/04/27 04:06:13] Total 15800 files processed
+[INFO]-[2022/04/27 04:06:19] Total 15850 files processed
+[INFO]-[2022/04/27 04:06:26] Total 15900 files processed
+[INFO]-[2022/04/27 04:06:30] Total 15950 files processed
+[INFO]-[2022/04/27 04:06:34] Total 16000 files processed
+[INFO]-[2022/04/27 04:06:38] Total 16050 files processed
+[INFO]-[2022/04/27 04:06:42] Total 16100 files processed
+[INFO]-[2022/04/27 04:06:46] Total 16150 files processed
+[INFO]-[2022/04/27 04:06:50] Total 16200 files processed
+[INFO]-[2022/04/27 04:06:53] Total 16250 files processed
+[INFO]-[2022/04/27 04:06:58] Total 16300 files processed
+[INFO]-[2022/04/27 04:07:03] Total 16350 files processed
+[INFO]-[2022/04/27 04:07:09] Total 16400 files processed
+[INFO]-[2022/04/27 04:07:15] Total 16450 files processed
+[INFO]-[2022/04/27 04:07:20] Total 16500 files processed
+[INFO]-[2022/04/27 04:07:26] Total 16550 files processed
+[INFO]-[2022/04/27 04:07:33] Total 16600 files processed
+[INFO]-[2022/04/27 04:07:38] Total 16650 files processed
+[INFO]-[2022/04/27 04:07:43] Total 16700 files processed
+[INFO]-[2022/04/27 04:07:46] Total 16750 files processed
+[INFO]-[2022/04/27 04:07:50] Total 16800 files processed
+[INFO]-[2022/04/27 04:07:53] Total 16850 files processed
+[INFO]-[2022/04/27 04:07:56] Total 16900 files processed
+[INFO]-[2022/04/27 04:08:00] Total 16950 files processed
+[INFO]-[2022/04/27 04:08:04] Total 17000 files processed
+[INFO]-[2022/04/27 04:08:10] Total 17050 files processed
+[INFO]-[2022/04/27 04:08:16] Total 17100 files processed
+[INFO]-[2022/04/27 04:08:19] Total 17150 files processed
+[INFO]-[2022/04/27 04:08:23] Total 17200 files processed
+[INFO]-[2022/04/27 04:08:26] Total 17250 files processed
+[INFO]-[2022/04/27 04:08:30] Total 17300 files processed
+[INFO]-[2022/04/27 04:08:33] Total 17350 files processed
+[INFO]-[2022/04/27 04:08:36] Total 17400 files processed
+[INFO]-[2022/04/27 04:08:40] Total 17450 files processed
+[INFO]-[2022/04/27 04:08:44] Total 17500 files processed
+[INFO]-[2022/04/27 04:08:47] Total 17550 files processed
+[INFO]-[2022/04/27 04:08:50] Total 17600 files processed
+[INFO]-[2022/04/27 04:08:54] Total 17650 files processed
+[INFO]-[2022/04/27 04:08:58] Total 17700 files processed
+[INFO]-[2022/04/27 04:09:02] Total 17750 files processed
+[INFO]-[2022/04/27 04:09:05] Total 17800 files processed
+[INFO]-[2022/04/27 04:09:13] Total 17850 files processed
+[INFO]-[2022/04/27 04:09:19] Total 17900 files processed
+[INFO]-[2022/04/27 04:09:25] Total 17950 files processed
+[INFO]-[2022/04/27 04:09:30] Total 18000 files processed
+[INFO]-[2022/04/27 04:09:33] Total 18050 files processed
+[INFO]-[2022/04/27 04:09:36] Total 18100 files processed
+[INFO]-[2022/04/27 04:09:39] Total 18150 files processed
+[INFO]-[2022/04/27 04:09:45] Total 18200 files processed
+[INFO]-[2022/04/27 04:09:48] Total 18250 files processed
+[INFO]-[2022/04/27 04:09:51] Total 18300 files processed
+[INFO]-[2022/04/27 04:09:55] Total 18350 files processed
+[INFO]-[2022/04/27 04:09:58] Total 18400 files processed
+[INFO]-[2022/04/27 04:10:02] Total 18450 files processed
+[INFO]-[2022/04/27 04:10:05] Total 18500 files processed
+[INFO]-[2022/04/27 04:10:11] Total 18550 files processed
+[INFO]-[2022/04/27 04:10:19] Total 18600 files processed
+[INFO]-[2022/04/27 04:10:23] Total 18650 files processed
+[INFO]-[2022/04/27 04:10:26] Total 18700 files processed
+[INFO]-[2022/04/27 04:10:30] Total 18750 files processed
+[INFO]-[2022/04/27 04:10:35] Total 18800 files processed
+[INFO]-[2022/04/27 04:10:38] Total 18850 files processed
+[INFO]-[2022/04/27 04:10:42] Total 18900 files processed
+[INFO]-[2022/04/27 04:10:45] Total 18950 files processed
+[INFO]-[2022/04/27 04:10:48] Total 19000 files processed
+[INFO]-[2022/04/27 04:10:52] Total 19050 files processed
+[INFO]-[2022/04/27 04:10:55] Total 19100 files processed
+[INFO]-[2022/04/27 04:10:58] Total 19150 files processed
+[INFO]-[2022/04/27 04:11:02] Total 19200 files processed
+[INFO]-[2022/04/27 04:11:05] Total 19250 files processed
+[INFO]-[2022/04/27 04:11:08] Total 19300 files processed
+[INFO]-[2022/04/27 04:11:15] Total 19350 files processed
+[INFO]-[2022/04/27 04:11:22] Total 19400 files processed
+[INFO]-[2022/04/27 04:11:29] Total 19450 files processed
+[INFO]-[2022/04/27 04:11:32] Total 19500 files processed
+[INFO]-[2022/04/27 04:11:36] Total 19550 files processed
+[INFO]-[2022/04/27 04:11:39] Total 19600 files processed
+[INFO]-[2022/04/27 04:11:42] Total 19650 files processed
+[INFO]-[2022/04/27 04:11:45] Total 19700 files processed
+[INFO]-[2022/04/27 04:11:49] Total 19750 files processed
+[INFO]-[2022/04/27 04:11:52] Total 19800 files processed
+[INFO]-[2022/04/27 04:11:55] Total 19850 files processed
+[INFO]-[2022/04/27 04:11:58] Total 19900 files processed
+[INFO]-[2022/04/27 04:12:02] Total 19950 files processed
+[INFO]-[2022/04/27 04:12:05] Total 20000 files processed
+[INFO]-[2022/04/27 04:12:08] Total 20050 files processed
+[INFO]-[2022/04/27 04:12:12] Total 20100 files processed
+[INFO]-[2022/04/27 04:12:18] Total 20150 files processed
+[INFO]-[2022/04/27 04:12:24] Total 20200 files processed
+[INFO]-[2022/04/27 04:12:27] Total 20250 files processed
+[INFO]-[2022/04/27 04:12:31] Total 20300 files processed
+[INFO]-[2022/04/27 04:12:35] Total 20350 files processed
+[INFO]-[2022/04/27 04:12:38] Total 20400 files processed
+[INFO]-[2022/04/27 04:12:41] Total 20450 files processed
+[INFO]-[2022/04/27 04:12:44] Total 20500 files processed
+[INFO]-[2022/04/27 04:12:47] Total 20550 files processed
+[INFO]-[2022/04/27 04:12:51] Total 20600 files processed
+[INFO]-[2022/04/27 04:12:54] Total 20650 files processed
+[INFO]-[2022/04/27 04:12:57] Total 20700 files processed
+[INFO]-[2022/04/27 04:13:00] Total 20750 files processed
+[INFO]-[2022/04/27 04:13:03] Total 20800 files processed
+[INFO]-[2022/04/27 04:13:07] Total 20850 files processed
+[INFO]-[2022/04/27 04:13:11] Total 20900 files processed
+[INFO]-[2022/04/27 04:13:20] Total 20950 files processed
+[INFO]-[2022/04/27 04:13:26] Total 21000 files processed
+[INFO]-[2022/04/27 04:13:29] Total 21050 files processed
+[INFO]-[2022/04/27 04:13:32] Total 21100 files processed
+[INFO]-[2022/04/27 04:13:35] Total 21150 files processed
+[INFO]-[2022/04/27 04:13:38] Total 21200 files processed
+[INFO]-[2022/04/27 04:13:42] Total 21250 files processed
+[INFO]-[2022/04/27 04:13:45] Total 21300 files processed
+[INFO]-[2022/04/27 04:13:48] Total 21350 files processed
+[INFO]-[2022/04/27 04:13:52] Total 21400 files processed
+[INFO]-[2022/04/27 04:13:55] Total 21450 files processed
+[INFO]-[2022/04/27 04:13:57] Total 21500 files processed
+[INFO]-[2022/04/27 04:14:02] Total 21550 files processed
+[INFO]-[2022/04/27 04:14:07] Total 21600 files processed
+[INFO]-[2022/04/27 04:14:11] Total 21650 files processed
+[INFO]-[2022/04/27 04:14:15] Total 21700 files processed
+[INFO]-[2022/04/27 04:14:19] Total 21750 files processed
+[INFO]-[2022/04/27 04:14:23] Total 21800 files processed
+[INFO]-[2022/04/27 04:14:27] Total 21850 files processed
+[INFO]-[2022/04/27 04:14:30] Total 21900 files processed
+[INFO]-[2022/04/27 04:14:34] Skipped symlinking Wp Uploads Folder
+[INFO]-[2022/04/27 04:14:34] Copying files finished
+[INFO]-[2022/04/27 04:14:36] DB Data Step 0: Copy wp-config.php file
+[INFO]-[2022/04/27 04:14:36] DB Data Step 0: Skipping: wp-config.php already exists in /home/site/wwwroot/ozrookies-iterat/wp-config.php
+[INFO]-[2022/04/27 04:14:37] DB Data Step 1: Updating siteurl and homeurl in wpstg0_options to https://stayconnected.azurewebsites.net/ozrookies-iterat
+[INFO]-[2022/04/27 04:14:46] DB Data Step 3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2022/04/27 04:14:47] DB Data Step 4: Updating table_prefix in /home/site/wwwroot/ozrookies-iterat/wp-config.php to wpstg0_
+[INFO]-[2022/04/27 04:14:49] DB Data Step 5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2022/04/27 04:14:50] DB Data Step 6: Updating db prefix in wpstg0_options.
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Updating constants in wp-config.php
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Added:UPLOADS
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Added:WP_PLUGIN_DIR
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Added:WP_PLUGIN_URL
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Added:WP_LANG_DIR
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Updated: WP_HOME
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Updated: WP_SITEURL
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Updated: WP_CACHE
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Added:WP_ENVIRONMENT_TYPE
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2022/04/27 04:14:52] DB Data Step 7: Deleted: WP_CONTENT_URL
+[INFO]-[2022/04/27 04:14:55] Finish: Deleting clone job's cache files...
+[INFO]-[2022/04/27 04:14:55] Finish: Clone job's cache files have been deleted!
+[INFO]-[2022/04/27 04:14:55] Finish: Verifying existing clones...
+[INFO]-[2022/04/27 04:14:55] Finish: The job finished!

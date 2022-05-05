@@ -1,0 +1,13 @@
+[WP STAGING Shutdown Function][E_ERROR][2022-04-29 11:55:45] Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Puvox\wp_library does not have a method "unregistered_pro" in /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php:2457
+Stack trace:
+#0 /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2457): call_user_func_array(Array, Array)
+#1 /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(3723): Puvox\wp_plugin->__call('unregistered_pr...', Array)
+#2 /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(3525): Puvox\wp_plugin->endStyles()
+#3 /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/index.php(627): Puvox\wp_plugin->settings_page_part('end')
+#4 /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(3290): WpPhpMyAdminExtension\PluginClass->opts_page_output()
+#5 /home/site/wwwroot/wp-includes/class-wp-hook.php(307): Puvox\wp_plugin->opts_page_output_parent('')
+#6 /home/site/wwwroot/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#7 /home/site/wwwroot/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#8 /home/site/wwwroot/wp-admin/admin.php(259): do_action('toplevel_page_w...')
+#9 {main}
+  thrown - File: /home/site/wwwroot/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php Line: 2457 Fatal? Is Fatal Error! Comes from WP STAGING? No
